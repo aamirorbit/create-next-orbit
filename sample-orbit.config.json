@@ -1,0 +1,14 @@
+{
+  "components": [
+    "button",
+    "card",
+    "input",
+    "form",
+    "dialog",
+    "toast",
+    "badge",
+    "avatar"
+  ],
+  "tailwind": true,
+  "shadcnVersion": "latest"
+} 
