@@ -3,11 +3,11 @@
 A production-ready Node.js CLI tool to bootstrap Next.js projects with shadcn/ui components.
 
 [![npm version](https://img.shields.io/npm/v/create-next-orbit.svg)](https://www.npmjs.com/package/create-next-orbit)
-[![GitHub stars](https://img.shields.io/github/stars/aamirorbit/reward-crate-tokens.svg)](https://github.com/aamirorbit/reward-crate-tokens)
+[![GitHub stars](https://img.shields.io/github/stars/aamirorbit/create-next-orbit.svg)](https://github.com/aamirorbit/create-next-orbit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 📦 **NPM**: [create-next-orbit](https://www.npmjs.com/package/create-next-orbit)  
-🐙 **GitHub**: [aamirorbit/reward-crate-tokens](https://github.com/aamirorbit/reward-crate-tokens)
+🐙 **GitHub**: [aamirorbit/create-next-orbit](https://github.com/aamirorbit/create-next-orbit)
 
 ## Features
 
@@ -116,8 +116,8 @@ The CLI follows the official shadcn/ui installation process:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aamirorbit/reward-crate-tokens.git
-cd reward-crate-tokens
+git clone https://github.com/aamirorbit/create-next-orbit.git
+cd create-next-orbit
 
 # Install dependencies
 npm install
@@ -176,4 +176,4 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-For issues and questions, please open an issue on [GitHub](https://github.com/aamirorbit/reward-crate-tokens). 
+For issues and questions, please open an issue on [GitHub](https://github.com/aamirorbit/create-next-orbit). 
