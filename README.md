@@ -2,6 +2,13 @@
 
 A production-ready Node.js CLI tool to bootstrap Next.js projects with shadcn/ui components.
 
+[![npm version](https://img.shields.io/npm/v/create-next-orbit.svg)](https://www.npmjs.com/package/create-next-orbit)
+[![GitHub stars](https://img.shields.io/github/stars/aamirorbit/reward-crate-tokens.svg)](https://github.com/aamirorbit/reward-crate-tokens)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+📦 **NPM**: [create-next-orbit](https://www.npmjs.com/package/create-next-orbit)  
+🐙 **GitHub**: [aamirorbit/reward-crate-tokens](https://github.com/aamirorbit/reward-crate-tokens)
+
 ## Features
 
 - 🚀 **Quick Setup**: Bootstrap Next.js projects with TypeScript and Tailwind CSS
@@ -108,6 +115,10 @@ The CLI follows the official shadcn/ui installation process:
 ### Setup
 
 ```bash
+# Clone the repository
+git clone https://github.com/aamirorbit/reward-crate-tokens.git
+cd reward-crate-tokens
+
 # Install dependencies
 npm install
 
@@ -165,4 +176,4 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-For issues and questions, please open an issue on GitHub. 
+For issues and questions, please open an issue on [GitHub](https://github.com/aamirorbit/reward-crate-tokens). 
